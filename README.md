@@ -9,4 +9,4 @@
   <li>React.js</li>
   <li>bootstrap</li>
 </ul>
-live preview:<a>Demo</a>
+live preview:<a href="https://website-w-reactjs.netlify.app" target="_blank">Demo</a>
